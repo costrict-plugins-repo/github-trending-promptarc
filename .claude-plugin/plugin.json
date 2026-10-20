@@ -1,0 +1,9 @@
+{
+  "name": "promptarc",
+  "description": "Session intelligence for AI coding agents. Search past sessions, generate PR descriptions, share sessions, and get AI briefings.",
+  "version": "0.0.1",
+  "author": {
+    "name": "promptarc"
+  },
+  "homepage": "https://promptarc.dev"
+}

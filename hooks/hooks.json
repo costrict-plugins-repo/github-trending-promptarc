@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "npx -y promptarc export 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}
